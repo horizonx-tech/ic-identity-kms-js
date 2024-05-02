@@ -5,13 +5,13 @@ This is a Javascript implementation of the Identity Key Management Service (KMS)
 ## Installation
 
 ```
-yarn add @horizonx/aptos-wallet-connector
+yarn add @horizonx/ic-identity-kms-js
 ```
 
 or
 
 ```
-npm install @horizonx/aptos-wallet-connector
+npm install @horizonx/ic-identity-kms-js
 ```
 
 
